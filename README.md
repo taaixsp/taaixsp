@@ -21,10 +21,10 @@
  
  <b>Social Media</b>
  
- <a href="https://discordapp.com/users/774408558438907945/" target="_blank"><img height="35" width="65" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" > </a> 
- <a href="https://www.linkedin.com/in/tainaxsp/" target="_blank"><img height="35" width="65" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
- <a href="https://mail.google.com/mail/u/?authuser=tainaxavier.corp@gmail.com" target="_blank"><img height="35" width="65" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
-  <a href="https://wa.me/<5511912715003>" target="_blank"><img height="35" width="65" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+ <a href="https://discordapp.com/users/774408558438907945/" target="_blank"><img height="35" width="105" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" > </a> 
+ <a href="https://www.linkedin.com/in/tainaxsp/" target="_blank"><img height="35" width="105" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+ <a href="https://mail.google.com/mail/u/?authuser=tainaxavier.corp@gmail.com" target="_blank"><img height="35" width="105" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+  <a href="https://wa.me/<5511912715003>" target="_blank"><img height="35" width="105" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
  
 ##          
           
