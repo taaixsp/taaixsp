@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 
-- 🪴 Lifelong learning: currently studying Data Science at Fatec Cotia and Java at the IBM bootcamp "If Black then code"
+- 🪴 Lifelong learning: currently studying Data Science at Fatec Cotia;
 - 🤝🏾 I’m looking to collaborate on projects and repositories that are going to increase my knowlegde.
 - 💬 Ask me about anything! I am always willing and ready to help! 💖
 - 😄 Pronouns: She/Ella/Ela
