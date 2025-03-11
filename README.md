@@ -1,8 +1,8 @@
 ### Hey, I'm Tainã✨
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img src="https://i.pinimg.com/originals/91/05/55/910555cea7b1830348618ea362e3c46b.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 500px; height: 265px; margin: 0px; width: 353px;" alt="Pin page" jsname="kn3ccd">
 
 
-- 🪴 Lifelong learning: currently studying Data Science at Fatec Cotia;
+- 🪴 Lifelong learning: Data scientist at B3
 - 🤝🏾 I’m looking to collaborate on projects and repositories that are going to increase my knowlegde.
 - 💬 Ask me about anything! I am always willing and ready to help! 💖
 - 😄 Pronouns: She/Ella/Ela
