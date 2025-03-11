@@ -12,8 +12,7 @@
  
 <b>Languages</b> 
 
- <img height="70" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  <img height="50" width="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" srcset="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png 2x" alt="Python icon - Free download on Iconfinder" class="d-block mx-auto" margin="5px" />  
- <img height="50" width="50" margin="5px" src="https://banner2.cleanpng.com/20181126/abl/kisspng-scalable-vector-graphics-cran-statgraphics-rnn-vitor-c-5bfbd66c032b81.781736061543231084013.jpg" jsaction="" class="sFlh5c FyHeAf iPVvYb" alt="R Logo - R Programming Language Logo - CleanPNG / KissPNG" jsname="kn3ccd" aria-hidden="false" />
+ <img height="70" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  <img height="50" width="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" srcset="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png 2x" alt="Python icon - Free download on Iconfinder" class="d-block mx-auto" margin="5px" /> <img height="50" width="50" margin="5px" src="https://banner2.cleanpng.com/20181126/abl/kisspng-scalable-vector-graphics-cran-statgraphics-rnn-vitor-c-5bfbd66c032b81.781736061543231084013.jpg" jsaction="" class="sFlh5c FyHeAf iPVvYb" alt="R Logo - R Programming Language Logo - CleanPNG / KissPNG" jsname="kn3ccd" aria-hidden="false" />
  
  
 ## 
