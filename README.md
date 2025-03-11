@@ -1,6 +1,4 @@
 ### Hey, I'm Tainã✨
-<img src="https://i.pinimg.com/originals/91/05/55/910555cea7b1830348618ea362e3c46b.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 500px; height: 265px; margin: 0px; width: 353px;" alt="Pin page" jsname="kn3ccd">
-
 
 - 🪴 Lifelong learning: Data scientist at B3
 - 🤝🏾 I’m looking to collaborate on projects and repositories that are going to increase my knowlegde.
@@ -8,13 +6,15 @@
 - 😄 Pronouns: She/Ella/Ela
 - ⚡ Interesting fact: my name means "morning star"! ☀️
 
-
+<img src="https://i.pinimg.com/originals/91/05/55/910555cea7b1830348618ea362e3c46b.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 500px; height: 265px; margin: 0px; width: 353px;" alt="Pin page" jsname="kn3ccd" />
 
 ##
  
 <b>Languages</b> 
 
  <img height="70" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+ 
+ <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" srcset="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png 2x" alt="Python icon - Free download on Iconfinder" class="d-block mx-auto">
  
  
 ## 
