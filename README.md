@@ -1,5 +1,5 @@
 ### Hey, I'm Tainã✨
-<img src="https://i.pinimg.com/originals/91/05/55/910555cea7b1830348618ea362e3c46b.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 265px; height: 133px; margin: 0px; width: 353px;" alt="Pin page" jsname="kn3ccd">
+<img src="https://i.pinimg.com/originals/91/05/55/910555cea7b1830348618ea362e3c46b.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 500px; height: 265px; margin: 0px; width: 353px;" alt="Pin page" jsname="kn3ccd">
 
 
 - 🪴 Lifelong learning: Data scientist at B3
