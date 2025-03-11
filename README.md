@@ -12,7 +12,7 @@
  
 <b>Languages</b> 
 
- <img height="70" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  <img height="50" width="50"  margin="5px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" /> <img height="50" width="50" margin="5px" src="https://banner2.cleanpng.com/20181126/abl/kisspng-scalable-vector-graphics-cran-statgraphics-rnn-vitor-c-5bfbd66c032b81.781736061543231084013.jpg" />
+ <img height="70" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  <img height="50" width="50"  margin="5px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" /> <img height="50" width="50" src="https://download.logo.wine/logo/R_(programming_language)/R_(programming_language)-Logo.wine.png" />
  
  
 ## 
