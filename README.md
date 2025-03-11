@@ -12,7 +12,7 @@
  
 <b>Languages</b> 
 
- <img height="70" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  <img height="50" width="110" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" srcset="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png 2x" alt="Python icon - Free download on Iconfinder" class="d-block mx-auto">
+ <img height="70" width="110" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />  <img height="50" width="50" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" srcset="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-1024.png 2x" alt="Python icon - Free download on Iconfinder" class="d-block mx-auto">
  
  
 ## 
